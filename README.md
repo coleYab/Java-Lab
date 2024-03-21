@@ -1,2 +1,2 @@
-A repository for website development.
+# Java Lab Exercise
 
