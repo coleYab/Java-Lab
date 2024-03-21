@@ -1,4 +1,4 @@
-#Java Lab Exercise 2
+# Java Lab Exercise 2
 
 ## Exercise 1 : File Name : House
 - Create a class "House", with an attribute “length”, “width”, "area", a
